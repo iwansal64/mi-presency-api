@@ -1,0 +1,4 @@
+Error Code MI Presency API
+0:database_error
+1:user_params_error
+2:type_error
